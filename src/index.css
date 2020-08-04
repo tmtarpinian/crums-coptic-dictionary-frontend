@@ -13,8 +13,8 @@
 
   /* --- Welcome Page Styles --- */
   body {
-    /* background-image: url("../images/catan.jpg"); */
-    background-color: #9D69A3;
+    background-image: url("./Papyrus66.jpg");
+    /* background-color: #9D69A3; */
     color: #333;
     font-family: Sans-Serif;
     line-height: 18px;
@@ -114,3 +114,10 @@
     line-height: 24px;
   }
 }
+
+/* color guide:
+565746 = ebony
+7DE2D1 = Middle Blue Green
+FFFAFB = snow
+BB9F06 - Lemon Curry
+F40000 - Red */
